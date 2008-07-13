@@ -22,7 +22,7 @@
 *  This copyright notice MUST APPEAR in all copies of the script!
 ***************************************************************/
 
-require_once(t3lib_extMgm::extPath("xmlrpc_lib").'/xmlrpc.php');
+require_once(t3lib_extMgm::extPath("hr_kde_vfs").'/xmlrpc_5.php');
 
 
 class ux_SC_index extends SC_index

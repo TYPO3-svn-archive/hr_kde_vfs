@@ -50,7 +50,7 @@ class tx_vfs_base extends tx_server_base {
     Constructor
     */
     function tx_vfs_base(){
-            
+        // wird nicht gebraucht!!!   
         $this->path_to_rootdir  =   PATH_site.$this->rel_real_rootfolder;
             
     }    
